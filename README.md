@@ -1,12 +1,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anil </h1>
-<h3 align="center">I love to build things for a better cause ❤️</h3>
+<h3 align="center">I love to Build things that creates an impact❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
 
 
-- 🌱 I’m currently learning **React and NodeJs*
-
+- 🌱 I’m currently learning *React and NodeJs*
+- 👯 I’m looking to collaborate on Web-dev front-end and backend projects 
 - 💬 Ask me about **Full-stack Web Development & Javascript**
 
 - 📫 Reach me here **anilphiyak617@gmail.com**
@@ -31,18 +31,13 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
+ 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -53,7 +48,7 @@
 <div align="center">
 
 ### Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=licofis&theme=react&hide_border=true&fire=DD2727" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkaCoder007&theme=react&hide_border=true&fire=DD2727" alt="AkaCoder007" /></p>
 </div>
 
 <!-- Github Statistics -->
@@ -61,7 +56,7 @@
 <div align="center">
   
 ### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=licofis&theme=react&show_icons=true&locale=en" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaCoder007&theme=react&show_icons=true&locale=en" alt="AkaCoder007" /></p>
 </div>
 
 <!-- Most Used language -->
@@ -69,18 +64,9 @@
 <div align="center">
   
 ### Most Used language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=licofis&theme=react&show_icons=true&locale=en&layout=compact" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkaCoder007&theme=react&show_icons=true&locale=en&layout=compact" alt="AkaCoder007" /></p>
 </div>
 
-
-<!-- Trophy -->
-<hr/>
-
-<div align="center">
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=licofis&theme=onedark&column=7" alt="licofis" />
-  </a>
-</div>
 
 <!-- Activity Graph -->
 <hr/>
@@ -88,7 +74,7 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-[![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=licofiS&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
+[![AkaCoder007's github activity graph](https://activity-graph.herokuapp.com/graph?username=licofiS&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
 </div>
 
 <!-- Details -->
@@ -97,7 +83,7 @@
 <summary>Detailed Summary</summary>
 <br>
     
-![Metrics](https://metrics.lecoq.io/licofiS?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+![Metrics](https://metrics.lecoq.io/AkaCoder007?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
     
 </details>
 <!--
