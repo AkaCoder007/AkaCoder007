@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akacoder007&label=Profile%20views&color=0e75b6&style=flat" alt="akacoder007" /> </p>
 
+- 💡I love building things that creates an impact❤️
+- 
 - 🌱 I’m currently learning **React and Node Js**
 
 - 💬 Ask me about **React, Javascript, and Node Js**
